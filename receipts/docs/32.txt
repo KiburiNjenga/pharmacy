@@ -1,0 +1,2 @@
+Select Drug;weak;23;13;;0
+Select Drug;weak;23;12;;0
